@@ -132,16 +132,16 @@ npm run dev  # Start the frontend
 ## Screenshots
 
 ### Home Page
-![Home Page](public/home.png)
+![Home Page](client/public/home.png)
 
 ### Sign-Up Page
-![Sign-Up Page](public/sign-up.png)
+![Sign-Up Page](client/public/sign-up.png)
 
 ### Create CV Page
-![Create CV](public/create.png)
+![Create CV](client/public/create.png)
 
 ### Update CV Page
-![Update CV](public/update.png)
+![Update CV](client/public/update.png)
 
 
 
